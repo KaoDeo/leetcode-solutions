@@ -13,3 +13,11 @@ const quarterOf = (month) => {
     }
   }
   
+
+// OR
+
+
+
+const quarterOf = function (month) {
+  return Math.ceil(month/3)
+}
