@@ -1,3 +1,3 @@
 # Leetcode challenges
 
-Check the branches to see solutions for the problems
+Check the branches to see the solutions
